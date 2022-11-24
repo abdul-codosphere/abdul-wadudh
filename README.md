@@ -34,12 +34,12 @@
 <table cellpadding="0">
   <tr>
     <!-- GitHub Top Language Card -->
-    <td><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-wadudh5&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=HTML&custom_title=Top%20Languages"/></td>
+    <td><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-wadudh&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=HTML&custom_title=Top%20Languages"/></td>
       <!-- GitHub Streak Stats Card -->
-    <td><img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-wadudh5&theme=tokyonight&hide_border=true" alt="abdul-wadudh5" /></td>
+    <td><img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-wadudh&theme=tokyonight&hide_border=true" alt="abdul-wadudh" /></td>
  </tr>
   <tr>
     <!-- GitHub Stats Card -->  
-    <td align="center" colspan="2"><img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=abdul-wadudh5&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats"/></td>
+    <td align="center" colspan="2"><img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=abdul-wadudh&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats"/></td>
   </tr>
 </table>
